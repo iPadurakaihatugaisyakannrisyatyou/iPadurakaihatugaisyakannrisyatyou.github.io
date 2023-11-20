@@ -22,7 +22,8 @@
 <br><a href= "https://tokyo-history.onrender.com/" >tokyo3(inferno作成)</a><br/>
 <br><a href= "https://tokyo-science.onrender.com/" >tokyo4(inferno作成)</a><br/>
 <br>インスタンス表インスタンス<br/>
-<br><a href= "https://soum-instance-slim1-funs.onrender.com" >soum</a><br/>
+今はありません、また作ります。
+<br>yukiYoutubeの作り方(クソ雑版)<br/>
 これで作ると(https://zisakuyou-(4文字の英数字).onrender.com)
 になります。
 <br>↓yukiyoutubeのインスタンス作成用デプロイボタン(なんで置いたかわからない)<br/>
