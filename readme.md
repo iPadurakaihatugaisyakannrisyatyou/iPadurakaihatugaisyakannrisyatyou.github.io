@@ -13,7 +13,7 @@
 <br><a href= "https://soum-slim1-rdtm.onrender.com/" >soum3</a></br>
 <br><a href= "https://emergency-ryousan-type.onrender.com/" >emergency-ryousan-type1</a></br>
 <br><a href= "https://emergency-ryousan-type-soiy.onrender.com/" >emergency-ryousan-type2</a></br>
-<br>slim2認証方法がちょっと違います<br />
+<br>slim2認証方法がちょっと違います<br/>
 <br><a href= "https://soum-slim2-j6m5.onrender.com/" >soum1</a></br>
 <br><a href= "https://soum-slim2-cj49.onrender.com/" >soum2</a></br>
 <br>slim1試験版(改造インスタンス)</br>
