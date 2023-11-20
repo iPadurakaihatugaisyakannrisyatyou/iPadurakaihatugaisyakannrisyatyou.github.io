@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: soum-slim1-4
+    name: zisakuyou
     env: python
     region: Oregon
     plan: free
