@@ -4,4 +4,4 @@
 <a href="https://render.com/deploy?repo=https://github.com/iPadurakaihatugaisyakannrisyatyou/iPadurakaihatugaisyakannrisyatyou.github.io">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
-なんでこのページを作ったかって？なんかしたかったら(謎定期)
+<b>なんでこのページを作ったかって？なんかしたかったら(謎定期)</b>
