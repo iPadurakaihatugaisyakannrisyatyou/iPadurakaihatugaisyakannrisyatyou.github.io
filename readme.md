@@ -25,9 +25,9 @@
 今はありません、また作ります。(というかこのページ作ったから要らない様な…
 
 <br>yukiYoutubeの作り方(クソ雑版、というか説明として成り立ってない()<br/>
-これで作ると(https://zisakuyou-(4文字の英数字).onrender.com)
-になります。
-<br>↓yukiyoutubeのインスタンス作成用デプロイボタン(なんで置いたかわからない)<br/>
+これで作ると(https://zisaku-(4文字の英数字).onrender.com)
+になります。とりあえずrender垢作ってこのボタン押して名前入れてポチッとすればOK(クソ雑)
+<br>↓yukiyoutubeのインスタンス作成用デプロイボタン<br/>
 <br><a href="https://render.com/deploy?repo=https://github.com/iPadurakaihatugaisyakannrisyatyou/iPadurakaihatugaisyakannrisyatyou.github.io">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render"></a><br/>
 
