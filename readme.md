@@ -33,7 +33,7 @@
 
 <br>proxyおまとめだぁぁ〜ちょっとだけ古いけど許してください(((<br/>
 <br>絵文字のやつ(名前わからない)<br/>
-<br><a href= "https://fossil-charming-frill.glitch.me/" >絵文字のやつ</a><br/>
+<br><a href= "https://fossil-charming-frill.glitch.me/" >絵文字のやつ1</a><br/>
 <br><a href= "https://honorable-handsome-muscari.glitch.me/" >絵文字のやつ2</a><br/>
 <br>Glype® proxyなど(名前わからない、使えない物もあるかも)<br/>
 <br><a href= "https://www.intagent.com/remoteview/" >Glype</a><br/>
@@ -47,6 +47,12 @@
 <br><a href= "https://interstellar.hop.sh/" >INTERSTELLAR(Classes)2</a><br/>
 <br><a href= "https://www.algebraxyz.com/" >INTERSTELLAR(Classes)3</a><br/>
 <br><a href= "https://csx6060coolbeansstore.artclass.site/apps.html" >INTERSTELLAR(Classes)4</a><br/>
+<br><a href= "https://interstellar-3.hop.sh/" >INTERSTELLAR(Classes)5</a><br/>
+<br><a href= "https://interstellar-15.hop.sh/" >INTERSTELLAR(Classes)6</a><br/>
+<br><a href= "https://world-news.inthepress.org/" >INTERSTELLAR(Classes)7</a><br/>
+<br>tokyo<br/>
+<br><a href= "https://tokyo.hop.sh/" >tokyo1</a><br/>
+<br><a href= "https://tokyo-a.hop.sh/" >tokyo2</a><br/>
 <br>Elixir<br/>
 <br><a href= "https://elixirlj.glitch.me/" >Elixir</a><br/>
 <br>kazwire<br/>
