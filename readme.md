@@ -34,7 +34,7 @@
 <br>proxyおまとめだぁぁ〜ちょっとだけ古いけど許してください(((<br/>
 <br>絵文字のやつ(名前わからない)<br/>
 <br><a href= "https://fossil-charming-frill.glitch.me/" >絵文字のやつ</a><br/>
-<br><a href= "https://honorable-handsome-muscari.glitch.me/" >絵文字のやつ</a><br/>
+<br><a href= "https://honorable-handsome-muscari.glitch.me/" >絵文字のやつ2</a><br/>
 <br>Glype® proxyなど(名前わからない、使えない物もあるかも)<br/>
 <br><a href= "https://www.intagent.com/remoteview/" >Glype</a><br/>
 <br><a href= "https://www.pc-freak.net/proxy/" >名前分からん</a><br/>
