@@ -1,18 +1,19 @@
 <br>iPad裏開発会社:管理社長作成ページ(目的は色々URL貼る事)<br/>
 <br>公式インスタンス更新しながらproxyとか色々貼って行きます<br/>
+<br>soumインスタンス更新しました、作り立てなのでおそらくまだブロックされます。<br/>
 <br>slim1いつものインスタンス<br/>
 <br><a href= "https://yk0108.onrender.com/blog/" >yk0108</a><br/>
-<br><a href= "https://soum-slim1-ut23.onrender.com/" >soum</a><br/>
-<br><a href= "https://soum-slim1-1.onrender.com/" >soum1</a><br/>
-<br><a href= "https://soum-slim1-2.onrender.com/" >soum2</a><br/>
-<br><a href= "https://emergency-ryousan-type.onrender.com/" >emergency-ryousan-type1</a><br/>
-<br><a href= "https://emergency-ryousan-type-soiy.onrender.com/" >emergency-ryousan-type2</a><br/>
+<br><a href= "https://soum-slim1-4-105y.onrender.com/" >soum</a><br/>
+<br><a href= "https://soum-slim1-6.onrender.com/" >soum1</a><br/>
+<br><a href= "https://soum-slim1-7.onrender.com/" >soum2</a><br/>
+<br><a href= "https://soum-slim1-8.onrender.com/" >soum3</a><br/>
+<br><a href= "https://soum-slim1-9.onrender.com/" >soum4</a><br/>
 <br>slim2認証方法がちょっと違います()<br/>
-<br><a href= "https://soum-slim2-ji02.onrender.com/" >soum</a><br/>
-<br><a href= "https://soum-slim2-1.onrender.com/" >soum1</a><br/>
-<br><a href= "https://soum-slim2-2.onrender.com/" >soum2</a><br/>
+<br><a href= "https://soum-slim2-6.onrender.com/" >soum</a><br/>
+<br><a href= "https://soum-slim2-7.onrender.com/" >soum1</a><br/>
+<br><a href= "https://soum-slim2-8.onrender.com/" >soum2</a><br/>
 <br>slim1試験版(改造インスタンス)<br/>
-<br><a href= "https://revoltkasoserver-o6dn.onrender.com" >revoltkasoserver</a><br/>
+<br><a href= "https://revoltkasoserver-uw2q.onrender.com" >revoltkasoserver</a><br/>
 <br><a href= "https://tokyo-math.onrender.com/" >tokyo1(inferno作成)</a><br/>
 <br><a href= "https://tokyo-english.onrender.com/" >tokyo2(inferno作成)</a><br/>
 <br><a href= "https://tokyo-history.onrender.com/" >tokyo3(inferno作成)</a><br/>
@@ -48,6 +49,7 @@
 <br><a href= "https://interstellar-15.hop.sh/" >INTERSTELLAR(Classes)6</a><br/>
 <br><a href= "https://world-news.inthepress.org/" >INTERSTELLAR(Classes)7</a><br/>
 <br><a href= "https://photography.ryanandjen.org/" >INTERSTELLAR(Classes)8</a><br/>
+<br><a href= "https://calco4132023.topvaz.top/" >Classes</a><br/>
 <br>tokyo<br/>
 <br><a href= "https://tokyo.hop.sh/" >tokyo1</a><br/>
 <br><a href= "https://tokyo-a.hop.sh/" >tokyo2</a><br/>
@@ -63,4 +65,5 @@
 <br>Utopia<br/>
 <br><a href= "https://ancienthistory.website/" >Utopia</a><br/>
 <br>Rammerhead<br/>
-<br><a href= "https://cool.portalwebvillamercedes.gob.ar/" >Rammerhead</a><br/>
+<br><a href= "https://cool.portalwebvillamercedes.gob.ar/" >Rammerhead1</a><br/>
+<br><a href= "https://ultraunblocker.tk/" >Rammerhead2</a><br/>
