@@ -1,6 +1,7 @@
 <br>iPad裏開発会社:管理社長作成ページ(目的は色々URL貼る事)<br/>
 <br>公式インスタンス更新しながらproxyとか色々貼って行きます<br/>
-<br>soumインスタンス更新しました、作り立てなのでおそらくまだブロックされます。<br/>
+<br>ページが開かないと思ったら、それは起動していないと思われます、開くの待ってください。<br/>
+<br>soumインスタンス更新しました11/29<br/>
 <br>slim1いつものインスタンス<br/>
 <br><a href= "https://yk0108.onrender.com/blog/" >yk0108</a><br/>
 <br><a href= "https://soum-slim1-4-105y.onrender.com/" >soum</a><br/>
@@ -8,15 +9,23 @@
 <br><a href= "https://soum-slim1-7.onrender.com/" >soum2</a><br/>
 <br><a href= "https://soum-slim1-8.onrender.com/" >soum3</a><br/>
 <br><a href= "https://soum-slim1-9.onrender.com/" >soum4</a><br/>
+<br><a href= "https://soum-slim1-5-00o6.onrender.com/" >soum5</a><br/>
+<br><a href= "https://soum-slim1-7-ade7.onrender.com/" >soum6</a><br/>
+<br><a href= "https://soum-slim1-gm.onrender.com/" >soum-gm</a><br/>
 <br>slim2認証方法がちょっと違います()<br/>
 <br><a href= "https://soum-slim2-6.onrender.com/" >soum</a><br/>
 <br><a href= "https://soum-slim2-7.onrender.com/" >soum1</a><br/>
 <br><a href= "https://soum-slim2-8.onrender.com/" >soum2</a><br/>
+<br><a href= "https://soum-slim2-4-0w0t.onrender.com/word/" >soum3</a><br/>
+<br><a href= "https://soum-slim2-5-so9f.onrender.com/word/" >soum4</a><br/>
 <br>slim1試験版(改造インスタンス)<br/>
 <br><a href= "https://revoltkasoserver-uw2q.onrender.com" >revoltkasoserver</a><br/>
 <br><a href= "https://tokyo-math.onrender.com/" >tokyo1(inferno作成)</a><br/>
 <br><a href= "https://tokyo-english.onrender.com/" >tokyo2(inferno作成)</a><br/>
 <br><a href= "https://tokyo-history.onrender.com/" >tokyo3(inferno作成)</a><br/>
+<br><a href= "https://inferno-s2.onrender.com/" >inferno1</a><br/>
+<br><a href= "https://inferno-s3.onrender.com/" >inferno2</a><br/>
+<br><a href= "https://inferno-s4.onrender.com/" >inferno3</a><br/>
 <br>インスタンス表インスタンス<br/>
 今はありません、また作ります。(というかこのページ作ったから要らない様な…
 
