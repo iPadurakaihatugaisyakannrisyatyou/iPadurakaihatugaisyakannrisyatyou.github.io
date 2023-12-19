@@ -9,7 +9,7 @@
 　<br>https://scratch.mit.edu/users/iPad-urakaihatu/
 　<br>https://charat.me/dotch/ja/vs/124533
   <br>公開用yukiyoutube<br/>
-  <br>slim1
+  <br>slim1(いつもの)
   <br><a href="https://soum-slim1-13-cg2i.onrender.com/">slim1</a>
   <br><a href="https://emergency-ryousan-type-slim1-8o5p.onrender.com/">slim1</a>
   <br><a href="https://emergency-ryousan-type-slim1-z1tt.onrender.com/">slim1</a>
@@ -17,7 +17,7 @@
   <br><a href="https://emergency-ryousan-type-slim1-1.onrender.com/">slim1</a>
   <br><a href="https://emergency-ryousan-type-slim1-1-4561.onrender.com/">slim1</a>
   <br><a href="https://emergency-ryousan-type-slim1-1-r0gd.onrender.com/">slim1</a>
-  <br>slim2
+  <br>slim2(パスワードはslim1と違います)
   <br><a href="https://emergensy-ryousan-type-slim2-2-ujvb.onrender.com/">slim2</a>
   <br><a href="https://emergensy-ryousan-type-slim2-2-ov9r.onrender.com/">slim2</a>
   <br><a href="https://emergensy-ryousan-type-slim2-1-z86y.onrender.com/">slim2</a>
