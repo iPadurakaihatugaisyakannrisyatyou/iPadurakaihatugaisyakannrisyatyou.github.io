@@ -5,9 +5,13 @@
   <br>このインスタンスのパスワードを知りたい場合はiPad裏開発会社のどこかの支部、または社長、社員と直接連絡を取ってください。
   <br>このURLが学校などにバレてしまった場合、全てブロックされてしまうので、パスワードを付け、移動しました。<br/>
   <br>ここのページは消しません。少なくとも何かには使います(適当)<br/>
-　<br>僕はスクラッチ、DOTCHにもいるよ(
+　<br>僕はscratch、DOTCH、konoMiなど色々なところにいるよ(
 　<br>https://scratch.mit.edu/users/iPad-urakaihatu/
 　<br>https://charat.me/dotch/ja/vs/124533
+  <br>konoMiスペース[pɐԀı̣裏開発会社konoMi支部]へ招待されています。
+　<br>招待コード : 628193
+　<br>有効期限 : 無期限
+　<br>https://service.lsapp.space/konomi
   <br>公開用yukiyoutube<br/>
   <br>slim1(いつもの)
   <br><a href="https://soum-slim1-13-cg2i.onrender.com/">slim1</a>
