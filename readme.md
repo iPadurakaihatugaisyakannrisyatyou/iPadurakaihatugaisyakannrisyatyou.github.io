@@ -12,6 +12,8 @@
 　<br>招待コード : 628193
 　<br>有効期限 : 無期限
 　<br>https://service.lsapp.space/konomi
+ 　<br>Revolt名:iPadurakaihatu#0032
+ 　<br>Discord名:ipad_urakaihatu
   <br>公開用yukiyoutube<br/>
   <br>slim1(いつもの)
   <br><a href="https://soum-slim1-13-cg2i.onrender.com/">slim1</a>
